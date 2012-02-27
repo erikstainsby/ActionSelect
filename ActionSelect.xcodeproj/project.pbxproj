@@ -47,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				03530B6D14F09976002E9A5E /* ActionSelect */,
+				03530B6E14F09976002E9A5E /* Supporting Files */,
 				03530B6614F09976002E9A5E /* Frameworks */,
 				03530B6514F09976002E9A5E /* Products */,
 			);
@@ -83,7 +84,6 @@
 		03530B6D14F09976002E9A5E /* ActionSelect */ = {
 			isa = PBXGroup;
 			children = (
-				03530B6E14F09976002E9A5E /* Supporting Files */,
 				03530BC714F09AF4002E9A5E /* ActionSelect.h */,
 				03530BC814F09AF4002E9A5E /* ActionSelect.m */,
 				03530C3714F0A34E002E9A5E /* ActionSelect.xib */,
@@ -99,6 +99,7 @@
 				03530B7314F09976002E9A5E /* ActionSelect-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			path = ActionSelect;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
